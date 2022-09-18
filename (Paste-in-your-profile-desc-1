@@ -1,0 +1,1 @@
+Int total = 800 bool STATE == TRUE; IF(STATE) { rbx_total == STATE }; AMZ_RBX_CD == rbx_total; (END if-True)-;
